@@ -22,6 +22,16 @@ plot(iris$Sepal.Length,iris$Petal.Length)</description>
     </item>
     
     <item>
+      <title>Testing the direct linkage between Netlify and GitHub</title>
+      <link>/blog/2019/05/04/2019-05-04-testing-the-direct-linkage-between-netlify-and-github/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/05/04/2019-05-04-testing-the-direct-linkage-between-netlify-and-github/</guid>
+      <description>Let us create a bar graph.
+library(ggplot2)ggplot(iris,aes(Species))+geom_bar()</description>
+    </item>
+    
+    <item>
       <title>Yet another plot</title>
       <link>/blog/2019/05/04/2019-05-04-yet-another-plot/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
