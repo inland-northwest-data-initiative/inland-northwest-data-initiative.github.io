@@ -1,0 +1,9 @@
+weight: 3
+title: "Diverse analytical tools"
+description: >
+  <ul class="list-style-none">
+    <li>Visualizations</li>
+    <li>Statistical Models</li>
+    <li>Machine Learning Models</li>
+  </ul>
+image: "https://imgs.xkcd.com/comics/machine_learning.png"

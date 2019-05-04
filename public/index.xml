@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>INDI</title>
+    <link>/</link>
+    <description>Recent content on INDI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A simple plot</title>
+      <link>/blog/2019/05/04/2019-05-04-a-simple-plot/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/05/04/2019-05-04-a-simple-plot/</guid>
+      <description>This should produce a simple plot.
+plot(iris$Sepal.Length,iris$Petal.Length)</description>
+    </item>
+    
+    <item>
+      <title>Yet another plot</title>
+      <link>/blog/2019/05/04/2019-05-04-yet-another-plot/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/05/04/2019-05-04-yet-another-plot/</guid>
+      <description>This is a plot using the ggplot2 package.
+library(ggplot2)ggplot(iris,aes(Sepal.Length,Petal.Length,color=Species))+geom_point()</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/blog/2015/07/23/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/blog/2015/07/23/2015-07-23-r-rmarkdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>We are a group of folks from the Inland Northwest who work in different companies and universities in different roles. What binds us is our love for data analysis and the region.</description>
+    </item>
+    
+    <item>
+      <title>Challenges</title>
+      <link>/challenges/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/challenges/</guid>
+      <description> Challenge 1 Challenge 2  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>We are here to help you Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
+Please feel free to contact us, our customer service center is working for you 24&amp;frasl;7.</description>
+    </item>
+    
+    <item>
+      <title>Datasets</title>
+      <link>/datasets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/datasets/</guid>
+      <description> dataset 1 dataset 2  </description>
+    </item>
+    
+    <item>
+      <title>Initiatives</title>
+      <link>/initiatives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/initiatives/</guid>
+      <description> Initiative 1 Initiative 2  </description>
+    </item>
+    
+  </channel>
+</rss>

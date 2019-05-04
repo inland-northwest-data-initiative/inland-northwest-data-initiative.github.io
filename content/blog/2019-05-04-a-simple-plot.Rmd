@@ -1,0 +1,18 @@
+---
+title: A simple plot
+author: Vivek
+date: '2019-05-04'
+slug: a-simple-plot
+categories:
+  - R
+tags:
+  - R Markdown
+banner: "img/banners/scatter.png"
+---
+
+This should produce a simple plot.
+
+```{r scatter}
+plot(iris$Sepal.Length,iris$Petal.Length)
+```
+

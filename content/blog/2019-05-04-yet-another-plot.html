@@ -1,0 +1,18 @@
+---
+title: Yet another plot
+author: Vivek
+date: '2019-05-04'
+slug: yet-another-plot
+categories:
+  - R
+tags:
+  - R Markdown
+banner: "img/banners/scatter-1.png"
+---
+
+
+
+<p>This is a plot using the <code>ggplot2</code> package.</p>
+<pre class="r"><code>library(ggplot2)
+ggplot(iris,aes(Sepal.Length,Petal.Length,color=Species))+geom_point()</code></pre>
+<p><img src="/blog/2019-05-04-yet-another-plot_files/figure-html/scatter-1.png" width="672" /></p>

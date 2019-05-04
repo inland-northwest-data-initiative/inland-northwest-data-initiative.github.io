@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on INDI</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on INDI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A simple plot</title>
+      <link>/post/a-simple-plot/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-simple-plot/</guid>
+      <description>This should produce a simple plot.
+plot(iris$Sepal.Length,iris$Petal.Length)</description>
+    </item>
+    
+  </channel>
+</rss>

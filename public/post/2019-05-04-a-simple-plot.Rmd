@@ -1,0 +1,17 @@
+---
+title: A simple plot
+author: Vivek
+date: '2019-05-04'
+slug: a-simple-plot
+categories:
+  - R
+tags:
+  - R Markdown
+---
+
+This should produce a simple plot.
+
+```{r}
+plot(iris$Sepal.Length,iris$Petal.Length)
+```
+
