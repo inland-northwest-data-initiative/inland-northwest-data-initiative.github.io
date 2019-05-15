@@ -6,50 +6,19 @@
     <description>Recent content in R Markdown on INDI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A simple plot</title>
-      <link>/blog/2019/05/04/2019-05-04-a-simple-plot/</link>
-      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      <title>testing this</title>
+      <link>/post/testing/</link>
+      <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019/05/04/2019-05-04-a-simple-plot/</guid>
-      <description>This should produce a simple plot.
-plot(iris$Sepal.Length,iris$Petal.Length)</description>
-    </item>
-    
-    <item>
-      <title>Testing the direct linkage between Netlify and GitHub</title>
-      <link>/blog/2019/05/04/2019-05-04-testing-the-direct-linkage-between-netlify-and-github/</link>
-      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2019/05/04/2019-05-04-testing-the-direct-linkage-between-netlify-and-github/</guid>
-      <description>Let us create a bar graph.
-library(ggplot2)ggplot(iris,aes(Species))+geom_bar()</description>
-    </item>
-    
-    <item>
-      <title>Yet another plot</title>
-      <link>/blog/2019/05/04/2019-05-04-yet-another-plot/</link>
-      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2019/05/04/2019-05-04-yet-another-plot/</guid>
-      <description>This is a plot using the ggplot2 package.
-library(ggplot2)ggplot(iris,aes(Sepal.Length,Petal.Length,color=Species))+geom_point()</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/blog/2015/07/23/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/blog/2015/07/23/2015-07-23-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>/post/testing/</guid>
+      <description>Let’s test this.
+plot(iris$Sepal.Length,iris$Petal.Length)summary(iris)## Sepal.Length Sepal.Width Petal.Length Petal.Width ## Min. :4.300 Min. :2.000 Min. :1.000 Min. :0.100 ## 1st Qu.:5.100 1st Qu.:2.800 1st Qu.:1.600 1st Qu.:0.300 ## Median :5.800 Median :3.000 Median :4.350 Median :1.300 ## Mean :5.843 Mean :3.057 Mean :3.758 Mean :1.199 ## 3rd Qu.:6.400 3rd Qu.:3.300 3rd Qu.:5.100 3rd Qu.:1.800 ## Max. :7.900 Max. :4.400 Max. :6.900 Max. :2.500 ## Species ## setosa :50 ## versicolor:50 ## virginica :50 ## ## ## </description>
     </item>
     
   </channel>

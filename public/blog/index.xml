@@ -6,50 +6,18 @@
     <description>Recent content in Blogs on INDI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A simple plot</title>
-      <link>/blog/2019/05/04/2019-05-04-a-simple-plot/</link>
-      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      <title>Getting Started - A living post</title>
+      <link>/blog/2019/05/14/2019-05-14-getting-started/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019/05/04/2019-05-04-a-simple-plot/</guid>
-      <description>This should produce a simple plot.
-plot(iris$Sepal.Length,iris$Petal.Length)</description>
-    </item>
-    
-    <item>
-      <title>Testing the direct linkage between Netlify and GitHub</title>
-      <link>/blog/2019/05/04/2019-05-04-testing-the-direct-linkage-between-netlify-and-github/</link>
-      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2019/05/04/2019-05-04-testing-the-direct-linkage-between-netlify-and-github/</guid>
-      <description>Let us create a bar graph.
-library(ggplot2)ggplot(iris,aes(Species))+geom_bar()</description>
-    </item>
-    
-    <item>
-      <title>Yet another plot</title>
-      <link>/blog/2019/05/04/2019-05-04-yet-another-plot/</link>
-      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2019/05/04/2019-05-04-yet-another-plot/</guid>
-      <description>This is a plot using the ggplot2 package.
-library(ggplot2)ggplot(iris,aes(Sepal.Length,Petal.Length,color=Species))+geom_point()</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/blog/2015/07/23/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/blog/2015/07/23/2015-07-23-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>/blog/2019/05/14/2019-05-14-getting-started/</guid>
+      <description>After a meeting of the Inland Northwest R User Group on the 27th of April, some of us hung around and started a discussion regarding the &amp;ldquo;grander&amp;rdquo; ideas for how we could work together to expand the impact of a culture of using data for solving social problems. We came up with a list of objectives and how we could address them. This initiative is a result of that discussion. Subsequent discussions on slack lead to the decision regarding a domain name, GitHub handle, and the template for the website.</description>
     </item>
     
   </channel>

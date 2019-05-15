@@ -3,23 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/2019/05/04/2019-05-04-a-simple-plot/</loc>
-    <lastmod>2019-05-04T00:00:00+00:00</lastmod>
+    <loc>/blog/2019/05/14/2019-05-14-getting-started/</loc>
+    <lastmod>2019-05-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2019/05/04/2019-05-04-testing-the-direct-linkage-between-netlify-and-github/</loc>
-    <lastmod>2019-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2019/05/04/2019-05-04-yet-another-plot/</loc>
-    <lastmod>2019-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2015/07/23/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <loc>/events/</loc>
   </url>
   
   <url>
@@ -28,7 +17,7 @@
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2019-05-04T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -38,11 +27,11 @@
   </url>
   
   <url>
-    <loc>/challenges/</loc>
+    <loc>/contact/</loc>
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>/contests/</loc>
   </url>
   
   <url>
@@ -50,42 +39,17 @@
   </url>
   
   <url>
+    <loc>/events/</loc>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2019-05-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/initiatives/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2019-05-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/r-markdown/</loc>
-    <lastmod>2019-05-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2019-05-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   

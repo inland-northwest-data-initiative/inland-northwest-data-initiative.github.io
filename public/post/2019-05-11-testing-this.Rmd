@@ -1,0 +1,23 @@
+---
+title: testing this
+author: ''
+date: '2019-05-11'
+slug: testing
+categories:
+  - R
+tags:
+  - R Markdown
+---
+
+
+Let's test this.
+
+```{r}
+plot(iris$Sepal.Length,iris$Petal.Length)
+```
+
+```{r}
+summary(iris)
+```
+
+
