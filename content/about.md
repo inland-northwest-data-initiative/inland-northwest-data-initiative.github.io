@@ -7,7 +7,7 @@ We are a group of folks from the Inland Northwest who work in different companie
 
 ## [Kenneth Farr III](https://www.linkedin.com/in/kenfarr/)
 
-Ken Farr is Product Engineering Manager at 2nd Watch. He has a Master of Science in Computer Science from Eastern Washington University.
+Ken Farr is Product Engineering Manager at 2nd Watch. He has a Master of Science in Computer Science from Eastern Washington University.  His love of data and statistics emerged from his curiosity of discovering 'what is true'.  From that he explores how to use data to drive business decisions.  He flips between data science and data engineering, appreciating both sides of the field.
 
 ## [Fred Franken, Ph.D.](https://www.linkedin.com/in/fred-franken-29502765/)
 

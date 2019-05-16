@@ -12,6 +12,8 @@ googleAnalytics = ""
 # Define the number of posts per page
 paginate = 10
 
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
 [menu]
 
 # Main menu
@@ -70,7 +72,7 @@ weight = 5
 [[menu.topbar]]
     weight = 2
     name = "Email"
-    url = "mailto:patilv@gmail.com"
+    url = "mailto:inlandnorthwestdatainitiative@gmail.com"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
@@ -102,7 +104,7 @@ weight = 5
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "patilv@gmail.com"
+    email = "inlandnorthwestdatainitiative@gmail.com"
     contact_form_ajax = false
 
     about_us = "<p>We are a group of folks from the Inland Northwest who love data analysis and the Inland Northwest.</p>"
@@ -127,7 +129,7 @@ weight = 5
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us: +1 509-313-7046 or patilv@gmail.com.</p>
+    text = """<p class="hidden-sm hidden-xs">Contact us: +1 509-313-7046 or inlandnorthwestdatainitiative@gmail.com.</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>
