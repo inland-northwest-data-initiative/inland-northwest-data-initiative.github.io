@@ -19,4 +19,4 @@ Vivek Patil is Professor of Marketing at Gonzaga University, where he teaches co
 
 ## [Ryan Yost](https://www.linkedin.com/in/ryan-yost-36782918/)
 
-Ryan Yost is Scientist at Hollister-Stier Laboratories. He has a BS in Chemistry with minors in Math and Physics from Eastern Washington University.
+Ryan Yost is a Scientist at Jubilant Hollister-Stier Laboratoeies. He has a BS in Chemistry with minors in Math and Physics from Eastern Washington University. In 2013 he took an 8 week backpacking class with the Spokane Mountaineers. He still volunteers with the backpack school and tries to complete a couple multiday backpack trips each summer. He is also actively involved in trail maintenance. The majority of this is through volunteering with the Washington Trails Association where he is an Assistant Crew Leader and has completed over 50 days of trail work.
