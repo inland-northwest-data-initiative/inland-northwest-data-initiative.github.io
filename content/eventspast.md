@@ -1,7 +1,3 @@
----
-description: events
-title: Events
----
 
 ### Please scroll through upcoming events in different meetups in and around Spokane
 

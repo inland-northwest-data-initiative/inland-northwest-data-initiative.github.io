@@ -1,0 +1,61 @@
+---
+description: events
+title: Events
+---
+
+This is a listing of few upcoming events in the area. 
+
+We are following four specific Meetup groups in the Greater Spokane area. Please contact us if you would like to see the schedule of additional meetup groups that are related to our objective listed here. 
+
+* [Inland Northwest R User Group](https://www.meetup.com/Inland-Northwest-R-User-Group-INRUG/)
+* [Python Tri-Cities](https://www.meetup.com/PythonTriCities-Meetup/)
+* [PyData Spokane](https://www.meetup.com/PyData-Spokane/)
+* [Spokane/CdA Machine Learning Group](https://www.meetup.com/Spokane-CdA-Machine-Learning/) 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,message = FALSE,warning = FALSE)
+
+```
+
+
+
+```{r message=FALSE, results='hide'}
+
+Sys.setenv(MEETUP_KEY = "22e4624543e5332623447392321142e")
+groups=c("Inland-Northwest-R-User-Group-INRUG","Spokane-CdA-Machine-Learning","PythonTriCities-Meetup","PyData-Spokane")
+load("events.Rda")
+library(knitr)
+library(dplyr)
+library(lubridate)
+library(kableExtra)
+
+
+library(meetupr)
+for (i in 1:4){
+  eventsi=get_events(groups[i],c("upcoming","past"))
+  #if (exists(eventsi))(
+    events=rbind(events,eventsi)
+}
+
+events=events[events$status=="upcoming",]
+events=events%>%arrange(time)
+events=events[,c("local_time","local_date","name","venue_name","venue_address_1","venue_city","link")]
+
+
+
+events$local_date=format(as.Date(events$local_date, '%Y-%m-%d'), "%m/%d/%Y")
+events$When=paste(events$local_date,events$local_time)
+events$Where = paste(events$venue_name,events$venue_address_1,events$venue_city,sep=", ")
+
+events=events[,c("When","name","Where","link")]
+names(events)[2]="What"
+names(events)[4]="Details"
+```
+
+
+```{r}
+events%>%
+  kable() %>%
+  kable_styling()
+```
+
